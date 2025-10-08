@@ -15,7 +15,7 @@
 ## Testes
 
     $bash
-    git clone https://github.com/WesleyFelipeG/Avaliacao01_QA.git
+    git clone https://github.com/WesleyFelipeG/Av01_QA.git
     cd java-rest-api
     mvn test
 
